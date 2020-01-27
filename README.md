@@ -1,11 +1,11 @@
-Useful for clicking links using Partial link test
+#Useful for clicking links using Partial link test
 
 
-How to handle Javscript alert code added
+#How to handle Javscript alert code added
 
 
-File Upload Demo
+#File Upload Demo
 
 
 
-How to get value for internal cell of table added
+#How to get value for internal cell of table added
