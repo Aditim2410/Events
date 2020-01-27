@@ -8,4 +8,4 @@
 
 
 
-#How to get value for internal cell of table added
+#How to get value for internal cell of  static table added
